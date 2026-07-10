@@ -1,0 +1,61 @@
+{
+  "portal_meta": {
+    "title": "Balbodhini Pathshala Hyderabad Inquiry",
+    "subtitle": "Exposing Financial Coercion, Custodial Interference, and Third-Party Exploitation Claiming Links to Vallabhkul",
+    "compliance_notice": "SECURED EVIDENCE VAULT - CERTIFIED PUBLIC INTEREST DISCLOSURE"
+  },
+  "timeline_events": [
+    {
+      "id": "doc_001",
+      "date": "2025-04-05",
+      "title": "Exhibit 1: The Threat Notice & Counter Legal Rebuttal",
+      "description": "Comprehensive legal exposure analyzing the cease-and-desist mandates against third-party intruder Deepak Kumar Daga. Documents the tactical weaponization of marital discord, professional ethical violations under the ICAI Code of Ethics, and the exposure of massive unrecorded fund trails routed under proxy pretexts.",
+      "claim": "Deepak Daga's Cease-and-Desist Demands: Asserts status as a neutral spiritual 'elder' and 'kanyadan performer' who acted solely in good faith, claiming that the circulation of unredacted recordings violates basic civil privacy rights.",
+      "reality": "Documented Counter-Evidence: Factual tracking reveals a sustained pattern of extrajudicial bullying, extortion of over 15 Lakhs INR, non-transparent layering of funds into proxy relative bank accounts, and explicit verbal declarations boasting corrupt influence over police, taxation, and judicial authorities to force family isolation.",
+      "evidence": {
+        "type": "pdf",
+        "file_path": "/assets/evidence/Counter_Legal_Notice_Redacted.pdf",
+        "label": "Read Document: Formal Rebuttal & Counter-Notice Response"
+      }
+    },
+    {
+      "id": "doc_002",
+      "date": "2026-06-25",
+      "title": "Exhibit 2: Formal Criminal Complaint Petition (BNS 2023)",
+      "description": "The official omnibus criminal complaint submitted to the Kacheguda Police and senior enforcement directorates. Outlines the demand for immediate FIR registration for systemic financial extortion, cross-border parental child abduction, and organized spiritual grooming patterns linked to Balbodhini Paathshala network operators.",
+      "claim": "Institutional Agent Stance: Third-party intermediaries argue that relative financial allocations and spiritual guidance are voluntary, traditional interactions completely separate from any coercive intent or legal non-compliance.",
+      "reality": "Official BNS Criminal Filing: Verifiable case records establish deep financial fraud, explicit threats of 'total annihilation' delivered at the Westin Hyderabad, illegal physical detention of a parent inside a commercial CA office, and the intentional propagation of paranoia-inducing superstition ('vashikaran') to block court-directed reconciliation.",
+      "evidence": {
+        "type": "pdf",
+        "file_path": "/assets/evidence/formal-bns-police-complaint-redacted.pdf",
+        "label": "Read Document: Certified Criminal Complaint (Kacheguda Police)"
+      }
+    },
+    {
+      "id": "event_003",
+      "date": "1998-10-09",
+      "title": "Exhibit 3: Professional Profile & Credential Audit Timeline",
+      "description": "Comprehensive asset auditing contrasting the 21+ year sole proprietorship claims of Deepak Daga & Associates (established Oct 1998, Membership No. 206253) against systemic regulatory compliance reports, corporate stamp records, and unauthorized foreign attest service disclosures compiled for oversight bodies including ICAI, CBI, RBI, and FIU.",
+      "claim": "CA Deepak Daga Sole Proprietorship Claim: Asserts continuous, compliant 21+ year sole proprietorship of Deepak Daga & Associates, established October 1998 under Membership No. 206253.",
+      "reality": "Oversight Audit Findings: Contrasted against systemic regulatory compliance reports, inconsistent corporate stamp records, and unauthorized foreign attest service disclosures compiled for ICAI, CBI, RBI, and FIU.",
+      "evidence": {
+        "type": "pdf",
+        "file_path": "/assets/evidence/deepak-daga-resume-audit.pdf",
+        "label": "Read Document: CA Deepak Daga Resume & Credential Audit"
+      }
+    },
+    {
+      "id": "event_004",
+      "date": "2026-07-10",
+      "title": "Exhibit 4: Official ICAI Disciplinary Complaint Submission",
+      "description": "Scrubbed text ledger of the formal complaint submitted to the Director (Discipline) of the Institute of Chartered Accountants of India (ICAI) against the Respondent. Documents 9 comprehensive heads of misconduct detailing systemic credential misrepresentation and irregular financial routing.",
+      "claim": "CA Deepak Daga's Compliance Claims: Asserts absolute professional compliance and adherence to the ICAI Code of Ethics, disputing any grounds for disciplinary action or professional misconduct.",
+      "reality": "Official ICAI Disciplinary Case: Details 9 comprehensive heads of professional and other misconduct, highlighting systemic credential misrepresentation, fake experience certifications, and irregular financial routing.",
+      "evidence": {
+        "type": "text",
+        "file_path": "/assets/evidence/icai-disciplinary-complaint-redacted.txt",
+        "label": "Read Text: ICAI Complaint (Anonymized Transcript)"
+      }
+    }
+  ]
+}
