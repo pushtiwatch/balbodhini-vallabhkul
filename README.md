@@ -12,7 +12,7 @@ A transparent, public interest disclosure vault for legal evidence.
 | Resource | Purpose |
 | :--- | :--- |
 | [Architecture & Narrative](docs/architecture.md) | How the portal works & the 'why' behind it. |
-| [Redaction Guide](docs/redaction.md) | How to scrub PII from evidence. |
+| [Redaction Guide](docs/redaction-guide.md) | How to scrub PII from evidence. |
 | [Roadmap](docs/roadmap.md) | Future features (Video/Audio/Bank Data). |
 
 ## License
