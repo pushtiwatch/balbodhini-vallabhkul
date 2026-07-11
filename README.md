@@ -1,16 +1,19 @@
 # Balbodhini Pathshala Inquiry Portal
 
-## Overview
-A public interest disclosure portal for verified legal evidence.
+A transparent, public interest disclosure vault for legal evidence.
 
-## Master Documentation Reference
-| Document | Scope |
+## Quick Start
+1. Fork this repo.
+2. Place redacted PDFs in /assets/evidence/.
+3. Update 	imeline_data.json to reflect your case.
+4. Deploy via Docker.
+
+## Project Documentation
+| Resource | Purpose |
 | :--- | :--- |
-| [README.md](README.md) | Project Overview & Navigation (Start Here) |
-| [timeline_data.json](timeline_data.json) | The Database (Case Events) |
-| [redaction_design_reference.py](redaction_design_reference.py) | Redaction Tooling & Privacy Logic |
-| [app.py](app.py) | Backend Server Logic |
-| [Dockerfile](Dockerfile) | Deployment Recipe |
-| [LICENSE](LICENSE) | Legal Status (CC0 Public Domain) |
+| [Architecture & Narrative](docs/architecture.md) | How the portal works & the 'why' behind it. |
+| [Redaction Guide](docs/redaction.md) | How to scrub PII from evidence. |
+| [Roadmap](docs/roadmap.md) | Future features (Video/Audio/Bank Data). |
 
-For any questions, start at [README.md](README.md).
+## License
+Dedicated to the public domain under [CC0 1.0 Universal](LICENSE).
