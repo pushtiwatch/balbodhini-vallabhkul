@@ -9,7 +9,7 @@ C:\Personal\Website\
 ├── timeline_data.json
 ├── Dockerfile
 ├── requirements.txt
-├── anonymize_icai.py
+├── redaction_design_reference.py
 ├── README.md
 ├── LICENSE
 ├── templates/
@@ -153,7 +153,7 @@ PyMuPDF==1.24.5
 
 `
 
-## File: anonymize_icai.py
+## File: redaction_design_reference.py
 `py
 ### SCOPE: Anonymizes legal PDFs for public release.
 ### REFER TO: README.md for project overview.
@@ -726,7 +726,7 @@ A public interest disclosure portal for verified legal evidence.
 | :--- | :--- |
 | [README.md](README.md) | Project Overview & Navigation (Start Here) |
 | [timeline_data.json](timeline_data.json) | The Database (Case Events) |
-| [anonymize_icai.py](anonymize_icai.py) | Redaction Tooling & Privacy Logic |
+| [redaction_design_reference.py](redaction_design_reference.py) | Redaction Tooling & Privacy Logic |
 | [app.py](app.py) | Backend Server Logic |
 | [Dockerfile](Dockerfile) | Deployment Recipe |
 | [LICENSE](LICENSE) | Legal Status (CC0 Public Domain) |
