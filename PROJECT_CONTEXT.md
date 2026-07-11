@@ -10,6 +10,8 @@ C:\Personal\Website\
 ├── Dockerfile
 ├── requirements.txt
 ├── anonymize_icai.py
+├── README.md
+├── LICENSE
 ├── templates/
 │   └── index.html
 └── assets/
@@ -153,6 +155,9 @@ PyMuPDF==1.24.5
 
 ## File: anonymize_icai.py
 `py
+### SCOPE: Anonymizes legal PDFs for public release.
+### REFER TO: README.md for project overview.
+
 import os
 import re
 import fitz  # PyMuPDF
@@ -706,6 +711,37 @@ if __name__ == "__main__":
     </script>
 </body>
 </html>
+
+`
+
+## File: README.md
+`md
+# Balbodhini Pathshala Inquiry Portal
+
+## Overview
+A public interest disclosure portal for verified legal evidence.
+
+## Master Documentation Reference
+| Document | Scope |
+| :--- | :--- |
+| [README.md](README.md) | Project Overview & Navigation (Start Here) |
+| [timeline_data.json](timeline_data.json) | The Database (Case Events) |
+| [anonymize_icai.py](anonymize_icai.py) | Redaction Tooling & Privacy Logic |
+| [app.py](app.py) | Backend Server Logic |
+| [Dockerfile](Dockerfile) | Deployment Recipe |
+| [LICENSE](LICENSE) | Legal Status (CC0 Public Domain) |
+
+For any questions, start at [README.md](README.md).
+
+`
+
+## File: LICENSE
+`LICENSE
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
 `
 

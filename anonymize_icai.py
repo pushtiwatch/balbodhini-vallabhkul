@@ -1,3 +1,6 @@
+### SCOPE: Anonymizes legal PDFs for public release.
+### REFER TO: README.md for project overview.
+
 import os
 import re
 import fitz  # PyMuPDF
