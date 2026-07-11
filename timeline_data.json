@@ -14,7 +14,7 @@
       "reality": "Documented Counter-Evidence: Factual tracking reveals a sustained pattern of extrajudicial bullying, extortion of over 15 Lakhs INR, non-transparent layering of funds into proxy relative bank accounts, and explicit verbal declarations boasting corrupt influence over police, taxation, and judicial authorities to force family isolation.",
       "evidence": {
         "type": "pdf",
-        "file_path": "/assets/evidence/Counter_Legal_Notice_Redacted.pdf",
+        "file_path": "/assets/evidence/counter-legal-notice-deepak-daga-redacted.pdf",
         "label": "Read Document: Formal Rebuttal & Counter-Notice Response"
       }
     },
@@ -27,7 +27,7 @@
       "reality": "Official BNS Criminal Filing: Verifiable case records establish deep financial fraud, explicit threats of 'total annihilation' delivered at the Westin Hyderabad, illegal physical detention of a parent inside a commercial CA office, and the intentional propagation of paranoia-inducing superstition ('vashikaran') to block court-directed reconciliation.",
       "evidence": {
         "type": "pdf",
-        "file_path": "/assets/evidence/formal-bns-police-complaint-redacted.pdf",
+        "file_path": "/assets/evidence/formal-police-complaint-deepak-daga.pdf",
         "label": "Read Document: Certified Criminal Complaint (Kacheguda Police)"
       }
     },
@@ -52,9 +52,9 @@
       "claim": "CA Deepak Daga's Compliance Claims: Asserts absolute professional compliance and adherence to the ICAI Code of Ethics, disputing any grounds for disciplinary action or professional misconduct.",
       "reality": "Official ICAI Disciplinary Case: Details 9 comprehensive heads of professional and other misconduct, highlighting systemic credential misrepresentation, fake experience certifications, and irregular financial routing.",
       "evidence": {
-        "type": "text",
-        "file_path": "/assets/evidence/icai-disciplinary-complaint-redacted.txt",
-        "label": "Read Text: ICAI Complaint (Anonymized Transcript)"
+        "type": "pdf",
+        "file_path": "/assets/evidence/icai-disciplinary-complaint-deepak-daga.pdf",
+        "label": "Read Document: ICAI Complaint (Anonymized Submission)"
       }
     }
   ]
